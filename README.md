@@ -1,5 +1,5 @@
 # GMNER-LMMs
-Code and data for paper Grounded Multimodal Named Entity Recognition via Large Multimodal Models. The code will be publicly released later.
+Code and data for Grounded Multimodal Named Entity Recognition via Large Multimodal Models. The code will be publicly released later.
 ## Model Architecture
 The overall architecture of our proposed framework.
 
